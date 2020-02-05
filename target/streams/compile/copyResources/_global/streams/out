@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/minal/apriori-minal-assignment/src/main/resources/input.dat,/home/minal/apriori-minal-assignment/target/scala-2.11/classes/input.dat)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/minal/apriori-minal-assignment/src/main/resources/test.dat,/home/minal/apriori-minal-assignment/target/scala-2.11/classes/test.dat)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/minal/apriori-minal-assignment/src/main/resources/T10I4D100K.dat,/home/minal/apriori-minal-assignment/target/scala-2.11/classes/T10I4D100K.dat)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/minal/apriori-minal-assignment/src/main/resources/log4j.properties,/home/minal/apriori-minal-assignment/target/scala-2.11/classes/log4j.properties)[0m

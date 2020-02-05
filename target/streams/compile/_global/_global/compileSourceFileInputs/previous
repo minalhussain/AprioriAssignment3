@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.11.8":{"hashes":[["/home/minal/apriori-minal-assignment/src/main/scala/com/minal/spark/Main.scala","1a6080f6768db5fdebb71a3d392133587c41a70b"]],"lastModifiedTimes":[]}}]
